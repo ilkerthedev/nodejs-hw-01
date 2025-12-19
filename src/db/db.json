@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "f575a0ba-ee8e-499c-8da5-0a9f2ca893c9",
+    "name": "Ricardo Schmidt",
+    "phone": "1-595-577-5317 x172",
+    "email": "Nathaniel13@hotmail.com",
+    "job": "Senior Markets Planner"
+  },
+  {
+    "id": "7c04a45e-8b90-4f5b-840d-40c0b3139c79",
+    "name": "Lucille Murray",
+    "phone": "566.658.5107",
+    "email": "Katrina38@hotmail.com",
+    "job": "Human Integration Orchestrator"
+  },
+  {
+    "id": "944416be-517d-413c-8a81-b2ab8b8e5471",
+    "name": "Randall Stanton",
+    "phone": "(529) 270-9302 x8880",
+    "email": "Jovan.Hamill25@hotmail.com",
+    "job": "Dynamic Factors Manager"
+  },
+  {
+    "id": "32e2532c-3c00-4ce5-b4c7-678ad60d82e1",
+    "name": "Sara Orn",
+    "phone": "1-852-560-5634 x761",
+    "email": "Judd9@gmail.com",
+    "job": "Internal Metrics Agent"
+  },
+  {
+    "id": "13cc7e32-01c9-4e82-abaa-40d8f78ca130",
+    "name": "Josefina Lemke",
+    "phone": "558-509-7683 x75105",
+    "email": "Zackery.Buckridge4@yahoo.com",
+    "job": "Chief Quality Facilitator"
+  }
+]
